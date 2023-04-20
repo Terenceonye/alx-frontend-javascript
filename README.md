@@ -1,2 +1,1 @@
-# alx-frontend-javascript
-alx-frontend-javascript
+ALX BEGINNING FRONT END DEVELOPMENT
